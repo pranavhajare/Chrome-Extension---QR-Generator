@@ -1,0 +1,14 @@
+{
+    "name": "QR Code Generator",
+    "description": "Generates the QR Code for your any kind of links and texts.",
+    "version": "0.0.1",
+    "author":"Pranav",
+    "manifest_version": 3,
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": "qr.png"
+    },
+    "icons": {
+        "128": "qr.png"
+    }
+}
